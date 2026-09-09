@@ -1,1 +1,5 @@
 
+title: "Los Poemas de Mateo"
+description: "Un rincón digital para guardar poesía, versos y recuerdos."
+markdown: kramdown
+theme: minima
